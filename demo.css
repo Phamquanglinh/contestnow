@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+body { /* text-align: center; *//* line-height: 50% */
+}
+
+#login {
+    background: #eaeaea;
+    padding: 12px;
+    border: 1px solid black;
+    width: 22em;
+    margin: auto;
+    border-radius: 16px;
+    margin-top: 56px;
+    float: right;
+    /* height: 408px; */
+}
+
+#login input {
+    font-size: 21px;
+    max-width: 100%;
+    padding: 8px;
+    margin-top: 8px;
+    border: 1px solid black;
+    border-radius: 8px;
+
+}
+
+.login_head {
+    background: #427cab;
+    width: auto;
+    height: 71px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 48px;
+}
+
+.login_input_1 {
+    margin-top: 20px;
+    margin-top: 234px;
+    margin-bottom: 6px;
+}
+
+.login_input_2 {
+    margin-bottom: 11px;
+
+}
+
+.login_input_3 {
+    background: #327735;
+    color: white;
+    margin-bottom: 13px;
+    width: 137px;
+
+}
+
+.login_body {
+    FONT-VARIANT-EAST-ASIAN: JIS04;
+    width: 100%;
+    background-image: url("https://images2.alphacoders.com/750/thumb-1920-750482.png");
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+#log {
+    display: none;
+    text-align: center;
+    color: red
+}
+
+@media only screen and (max-width: 800px) {
+    .login_body {
+        display: flex;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+
+
+    #login {
+        margin-right: 83px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .login_body input {
+        font-size: 15px
+    }
+
+    #login {
+        padding: 1px;
+    }
+}

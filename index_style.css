@@ -1,0 +1,71 @@
+/*==Reset CSS==*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*==Style cơ bản cho website==*/
+body {
+    font-family: sans-serif;
+    color: #333;
+}
+
+/*Boder===========*/
+.boder {
+    border: 3px solid white;
+    border-radius: 1em;
+    margin-top: 12px;
+    max-width: 984px;
+    margin: auto;
+}
+
+.prolife {
+    text-align: center;
+    border: 1px solid red;
+    margin: auto;
+    padding: 12px;
+}
+
+.prolife_title {
+    font-size: 50px;
+    font-weight: bold;
+}
+.list_contest{border: 3px solid red;border-radius: 19px;padding: 12px;background: blueviolet;}
+.contest_box{
+    margin-bottom: 12px;
+    background: wheat;
+    border: 5px solid white;
+    padding: 3px;
+    border-radius: 12px;
+}
+#title_contest{
+    font-size: 24px;
+}
+#author_contest{
+    color: red;
+    margin-right: 12px;
+}
+
+h2{
+    text-align: center;
+    color: rebeccapurple;
+}
+
+.prolife ul{list-style-type: none}
+
+.contest_box a{ text-decoration: none;color: black}
+
+
+
+.contest_box:hover{background: #327735;color: black}
+
+.contest_box:active{background: #327735;color: black}
+
+
+
+
+
+
+
+
+

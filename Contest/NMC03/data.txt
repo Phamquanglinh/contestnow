@@ -1,0 +1,97 @@
+﻿Câu 1: Phát biểu nào sau đây là sai?
+	A. Việc cập nhật dữ liệu trong biểu mẫu thực chất là cập nhật dữ liệu trên bảng dữ liệu nguồn
+	B. Khi tạo biểu mẫu để nhập dữ liệu thì bắt buộc phải xác định hành động cho biểu mẫu
+	C. Việc nhập dữ liệu bằng cách sử dụng biểu mẫu sẽ thuận tiện hơn, nhanh hơn, ít sai sót hơn
+	D. Có thể sử dụng bảng ở chế độ trang dữ liệu để cập nhật dữ liệu trực tiếp
+Câu 2: Bảng đã được hiển thị ở chế độ trang dữ liệu, muốn tìm cụm từ nào đó trong bảng, ta thực hiện thao tác:
+	A. Record/ Sort/ Sort Decending
+	B. Record/ Filter/ Filter By Selection
+	C. Record/ Filter/ Filter By Form
+	D. Edit/ Find
+Câu 3: Trong Access, muốn tạo biểu mẫu theo cách dùng thuật sĩ, ta chọn:
+	A. Create form in using Wizard
+	B. Create form for using Wizard
+	C. Create form by using Wizard
+	D. Create form with using Wizard
+Câu 4: Trong Access, muốn in dữ liệu ra giấy, ta thực hiện
+	A. Windows – Print
+	B. Edit – Print
+	C. Tools – Print
+	D. File – Print
+Câu 5: Bảng đã được hiển thị ở chế độ trang dữ liệu, muốn lọc theo mẫu, thao tác thực hiện lệnh nào sau đây là đúng?
+	A. Insert/Colum
+	B. Record/Fillter/Fillter By Form
+	C. Record/Sort/Sort Ascending
+	D. Record/Fillter/Fillter By Selection.
+Câu 6: Cái qq
+	A. Thay đổi cách hiển thị dữ liệu trong bảng
+	B. Thay đổi dữ liệu trong các bảng gồm: thêm bản ghi mới, chỉnh sửa, xóa bản ghi
+	C. Thay đổi cấu trúc của bảng
+	D. Thay đổi dữ liệu trong các bảng
+Câu 7: Khẳng định nào sau đây là sai?
+	A. Lọc là một công cụ của hệ QT CSDL cho phép tìm ra những bản ghi thỏa mãn một số điều kiện nào đó phục vụ tìm kiếm
+	B. Sử dụng lọc theo ô dữ liệu đang chọn để tìm nhanh các bản ghi có dữ liệu trùng với ô đang chọn
+	C. Lọc tìm được các bản ghi trong nhiều bảng thỏa mãn với điều kiện lọc
+	D. Sử dụng lọc theo mẫu để tìm các bản ghi thỏa mãn các tiêu chí phức tạp
+Câu 8: Phát biểu nào sai trong các phát biểu sau?
+	A. Có thể thêm bản ghi vào giữa các bản ghi đã có trong bảng
+	B. Có thể sử dụng phím Tab để di chuyển giữa các ô trong bảng ở chế độ trang dữ liệu
+	C. Bản ghi đã bị xóa thì không thể khôi phục lại được
+	D. Tên trường có thể chứa các kí tự số và không thể dài hơn 64 kí tự
+Câu 9: Cho các thao tác:
+	(1) Gõ tên cho biểu mẫu rồi nháy Finish
+	(2) Chọn đối tượng Form trong bảng chọn đối tượng rồi nháy đúp vào Create form by using wizard
+	(3) Chọn kiểu cho biểu mẫu rồi nhấn Next
+	(4) Chọn cách bố trí biểu mẫu rồi nhấn Next
+	(5) Trong hộp thoại Form Wizard, chọn bảng (hoặc mẫu hỏi) từ ô Tables/Queries, tiếp theo là chọn các trường đưa vào biểu mẫu rồi nhấn Next
+Trình tự các thao tác để có thể thực hiện tạo biểu mẫu bằng cách dùng thuật sĩ sẽ là:
+	A. (2) => (5) => (4) => (3) => (1)
+	B. (2) => (3) => (4) => (5) => (1)
+	C. (5) => (2) => (3) => (4) => (1)
+	D. (2) => (5) => (3) => (4) => (1)
+Câu 10: Trong khi nhập dữ liệu cho bảng, muốn xóa một bản ghi đã được chọn, ta bấm phím:
+	A. Space	B. Tab	C. Enter	D. Delete
+Câu 11: Trong chế độ thiết kế của biểu mẫu, ta có thể:
+	A. Xem, sửa, xóa và nhập dữ liệu
+	B. Sửa đổi dữ liệu
+	C. Nhập và sửa dữ liệu
+	D. Sửa đổi cấu trúc của biểu mẫu
+Câu 12: Bảng đã được hiển thị ở chế độ trang dữ liệu, với một trường đã chọn, muốn sắp xếp các bản ghi theo thứ tự tăng,  thao tác thực hiện lệnh nào sau đây là đúng?
+	A. Edit/ Sort Ascending
+	B. Record/Sort/Sort Ascending
+	C. Insert/New Record
+	D. Record/Sort/Sort Descending
+Câu 13: Trên Table ở chế độ Datasheet View, Nhấn Ctrl+F:
+	A. Mở hộp thoại Find and Replace
+	B. Mở hộp thoại Font
+	C. Mở hộp thoại Sort
+	D. Mở hộp thoại Filter
+Câu 14: Để tạo biểu mẫu, trước đó phải có dữ liệu nguồn là từ:
+	A. Bảng hoặc báo cáo	B. Mẫu hỏi hoặc báo cáo
+	C. Bảng hoặc mẫu hỏi	D. Mẫu hỏi hoặc biểu mẫu
+Câu 15: Trong Access, ta có thể sử dụng biểu mẫu để :
+	A. Lập báo cáo
+	B. Sửa cấu trúc bảng
+	C. Xem, nhập và sửa dữ liệu
+	D. Tính toán cho các trường tính toán
+Câu 16: Trong chế độ thiết kế của biểu mẫu, ta có thể:
+	A. Sửa đổi thiết kế cũ
+	B. Thiết kế mới cho biểu mẫu, xem hay sửa đổi thiết kế cũ
+	C. Thiết kế mới cho biểu mẫu, xem hay sửa đổi thiết kế cũ, xem, sửa, xóa và nhập dữ liệu
+	D. Thiết kế mới cho biểu mẫu	, sửa đổi thiết kế cũ
+Câu 17: Thao tác nào sau đây có thể thực hiện được trong chế độ biểu mẫu?
+	A. Thay đổi vị trí các trường dữ liệu
+	B. Tạo thêm các nút lệnh
+	C. Định dạng font chữ cho các trường dữ liệu
+	D. Thêm một bản ghi mới
+Câu 18: Trong Access, muốn xem lại trang dữ liệu trước khi in, ta thực hiện :
+	A. File – Print Preview	B. Windows – Print Preview
+	C. Tools – Print Preview	D. View – Print Preview
+Câu 19: Chỉnh sửa biểu mẫu (thay đổi hình thức biểu mẫu) chỉ thực hiện được ở chế độ:
+	A. Biểu mẫu	B. Trang dữ liệu
+	C. Thiết kế	D. Thuật sĩ
+Câu 20: Trong Access, muốn tạo biểu mẫu theo cách tự thiết kế, ta chọn:
+	A. Create form in Design View
+	B. Create form by using Wizard
+	C. Create form with using Wizard
+	D. Create form by Design View
