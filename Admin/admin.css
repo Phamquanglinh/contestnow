@@ -102,3 +102,27 @@
     color: white;
     transition-delay: 200ms;
 }
+
+.edit_data{
+    max-width: 90%;
+    margin: auto;
+}
+#send{padding: 12px}
+.box_correct{
+    width: 20%;
+    display: inline-block;
+}
+#answer{
+    width: 83%;
+    padding: 3px;
+    border: 1px solid;
+    border-radius: 17px;
+}
+
+.title{
+    border: 1px solid;
+    padding: 6px;
+    margin-left: 10px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+}

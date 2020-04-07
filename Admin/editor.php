@@ -63,7 +63,7 @@ if ($type_user == "Normal") {
             foreach ($list as $test_key => $test_value) {
                 echo '<div id="list_test"> 
                         <P>' . $list[$test_key]['Name_contest'] . '</P>
-                              <button><a href="edit.php?code=' . $list[$test_key]['Code'] . '">Sửa</a></button>
+                              <button><a href="edited.php?code=' . $list[$test_key]['Code'] . '">Sửa</a></button>
                              <button><a href="delete.php?code=' . $list[$test_key]['Code'] . '">Xóa</a></button>
                                     ';
                 if ($type_user == 'Admin') {

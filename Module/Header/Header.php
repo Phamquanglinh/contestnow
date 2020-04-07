@@ -43,6 +43,6 @@ if ($_SESSION['type_user']!='Normal'){echo"<a href='../../Admin/admin.php'> Admi
 </nav>
          
         
-       </div>;
+       </div>
 
 

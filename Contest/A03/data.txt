@@ -78,7 +78,7 @@ Câu 16: Trong chế độ thiết kế của biểu mẫu, ta có thể:
 	A. Sửa đổi thiết kế cũ
 	B. Thiết kế mới cho biểu mẫu, xem hay sửa đổi thiết kế cũ
 	C. Thiết kế mới cho biểu mẫu, xem hay sửa đổi thiết kế cũ, xem, sửa, xóa và nhập dữ liệu
-	D. Thiết kế mới cho biểu mẫu, sửa đổi thiết kế cũ
+	D. Thiết kế mới cho biểu mẫu	, sửa đổi thiết kế cũ
 Câu 17: Thao tác nào sau đây có thể thực hiện được trong chế độ biểu mẫu?
 	A. Thay đổi vị trí các trường dữ liệu
 	B. Tạo thêm các nút lệnh
