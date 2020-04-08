@@ -20,9 +20,10 @@ include '../Module/Header/Header.php';?>
 
     <div class="edit_data">
 
-<?php if(isset($_REQUEST['code'])  && isset($data_contest[$_REQUEST['code']]['Code'])){$code=$_REQUEST['code'];
+<?php if(isset($_REQUEST['code'])  && isset($data_contest[$_REQUEST['code']]['Code']) && $data_contest[$_REQUEST['code']]['Email_publisher']==$Email){$code=$_REQUEST['code'];
 }
-   else {echo '<script>alert("Không có dữ liệu hoặc bài kiểm tra không tồn tại")</script>';
+   else {echo '<script>alert("Không có dữ liệu hoặc bài kiểm tra không tồn tại");history.back();
+</script>';
 
    }
 

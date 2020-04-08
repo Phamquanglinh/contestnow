@@ -33,7 +33,7 @@ if($type_user=="Normal"){header("refresh: 0; url = https://comflash.xyz");}
            <div class="tool">
                <div class="on_tool"><a href="creat.php">Tạo bài kiểm tra</a></div>
                <div class="on_tool"><a href="editor.php">Quản lý các bài kiểm tra đã đăng</a></div>
-               <div class="on_tool">Quản lý danh sách kết quả bài kiểm tra</div>
+               <div class="on_tool"><a href="getmark.php">Quản lý danh sách kết quả bài kiểm tra</a></div>
                <div class="on_tool">Cấp phép truy cập</div>
            </div>
 

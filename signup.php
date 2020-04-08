@@ -77,7 +77,7 @@
 //=======================================
                 $add_data = "INSERT INTO User_data (Email, Name, Password,Type,Class) VALUES ('" . $email . "','" . $user . "','" . $password . "','" . $type . "','" . $class . "')";
                 if (mysqli_query($con, $add_data)) {
-                    echo '<script>alert("Đăng kí thành công")</script>';
+                    echo '<script>alert("Đăng kí thành công");window.location="https://comflash.xyz"</script>';
                 } else {
                     echo mysqli_error($con);
                 }

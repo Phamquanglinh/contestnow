@@ -21,27 +21,6 @@ if ($type_user == "Normal") {
     <link rel="stylesheet" type="text/css" href="admin.css">
 </head>
 <body>
-<script>
-    function mess(code) {
-   var messages='<div class="cf"><div class="cf_div">Bạn muốn xóa bài này ? Sau khi xóa không thể khôi phục !</div>';
-         messages +='<button onclick="goto(';
-         messages+="'";
-         messages+=code;
-         messages+="'";
-         messages+=')"';
-         messages+='>Có</button>';
-         messages+='<button onclick="dis()">Không</button><div>';
-   document.getElementById('confirm_delete').innerHTML=messages;
-   document.getElementById('confirm_delete').style.display='block';
-    }
-
-    function dis(){document.getElementById('confirm_delete').style.display='none';}
-    function goto(link) {
-        window.location="delete.php?code="+link;
-    }
-
-</script>
-
 <!--Scrip------------------------------------------------------>
 
 <div class="container">
@@ -85,11 +64,9 @@ if ($type_user == "Normal") {
             foreach ($list as $test_key => $test_value) {
                 echo '<div id="list_test"> 
                         <P>' . $list[$test_key]['Name_contest'] . '</P>
-                              <button><a href="edited.php?code=' . $list[$test_key]['Code'] . '">Sửa</a></button>
-                             <div onclick="mess(';
-                echo "'";
-                echo $list[$test_key]['Code']; echo "'";echo ")";echo '"';
-                    echo 'id="delete">Xóa</div>';
+                              <button><a href="view.php?code=' . $list[$test_key]['Code'] . '">Xem kết quả</a></button>';
+                      echo '<button><a href="download_view.php?code=' . $list[$test_key]['Code'] . '">Tải file kết quả</a></button>';
+
                 if ($type_user == 'Admin') {
                     echo ' | <p style="color:red">Người đăng:<b>' . $list[$test_key]['Publisher'] . '</b></p>';
                 }
@@ -102,7 +79,7 @@ if ($type_user == "Normal") {
         </div>
 
     </div>
-    <div id="confirm_delete"></div>
+
 </div>
 </body>
 </html>
