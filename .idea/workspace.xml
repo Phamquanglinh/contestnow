@@ -2,16 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c44f6b-487f-4172-9614-7a3ed13d918e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Admin/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/getmark.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/mark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ContestNow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/83a3f833-3c11-4b68-ba1e-c5e8668f5216.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/83a3f833-3c11-4b68-ba1e-c5e8668f5216/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/admin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/edited.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/edited.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/editor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/A01/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/A01/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/A02/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/A02/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/A03/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/A03/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/ANR/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/ANR/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/Ad01/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/Ad01/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/Ad02/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/Ad02/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/Ketqua.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC01/Ketqua.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC01/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC01/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC02/Ketqua.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC02/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC02/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC03/Ketqua.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC03/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC03/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC04/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/NMC04/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/T03/Ketqua.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/T03/correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contest/T03/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ketqua.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ketqua_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/Shared/PCLZip/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/Shared/PCLZip/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/locale/pt/br/functions" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/locale/pt/br/functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/locale/pt/functions" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/locale/pt/functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/locale/sv/functions" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Classes/PHPExcel/locale/sv/functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DAVERAGE.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DAVERAGE.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DCOUNT.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DCOUNT.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DGET.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DGET.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DMAX.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DMAX.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DMIN.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DMIN.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DPRODUCT.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DPRODUCT.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DSTDEV.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DSTDEV.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DSTDEVP.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DSTDEVP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DVAR.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DVAR.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DVARP.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/Database/DVARP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Calculations/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader01.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader02.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader03.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader04.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader05.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader05.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader06.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader06.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader07.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader07.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader08.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader08.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader09.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader09.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader10.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader11.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader11.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader12.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader12.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader13.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader13.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader14.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader14.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader15.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader15.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader16.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader16.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader17.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/exampleReader17.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/sampleData/example1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/sampleData/example1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/sampleData/example1.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/sampleData/example1.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/sampleData/example2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/Reader/sampleData/example2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/Examples/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Architecture.cd" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Architecture.cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/ClassDiagrams.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/ClassDiagrams.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/ClassDiagrams.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/ClassDiagrams.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/ClassDiagrams.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/ClassDiagrams.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/IReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/IReader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/IWriter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/IWriter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_IOFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_IOFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Excel2007.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Excel2007.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Excel5.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Excel5.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Serialized.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Reader_Serialized.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Writer_Excel2007.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Writer_Excel2007.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Writer_Serialized.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/PHPExcel_Writer_Serialized.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/Worksheet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Classes/Worksheet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/ReaderWriter.cd" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Documentation/assets/ClassDiagrams/ReaderWriter.cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/20readexcel5.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/20readexcel5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/30template.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/30template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/31docproperties_write-xls.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/31docproperties_write-xls.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/31docproperties_write.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/31docproperties_write.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/32chartreadwrite.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/32chartreadwrite.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/Excel2003XMLReader.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/Excel2003XMLReader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/GnumericReader.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/GnumericReader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/OOCalcReader.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/OOCalcReader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/Quadratic.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/Quadratic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/Quadratic2.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/Quadratic2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/SylkReader.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/SylkReader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/SylkTest.slk" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/SylkTest.slk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/XMLReader.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/XMLReader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPExcel-1.8/Examples/XMLTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel-1.8/Examples/XMLTest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +242,7 @@
       <workItem from="1586152912099" duration="15787000" />
       <workItem from="1586185004974" duration="7868000" />
       <workItem from="1586230895231" duration="22474000" />
-      <workItem from="1586326523327" duration="14913000" />
+      <workItem from="1586326523327" duration="17376000" />
     </task>
     <task id="LOCAL-00001" summary="Test thử">
       <created>1586232094200</created>
