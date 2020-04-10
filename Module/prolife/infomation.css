@@ -1,0 +1,27 @@
+.container{}
+.infomation{max-width: 985px;margin:auto;height: 300px;/* margin-top: 12px; */background: green;border: 3px solid white;border-radius: 12px;padding: 4px;}
+.avatar{
+    width: 30%;
+    float: left;
+    /* background: red; */
+    height: 100%;
+    text-align: center;
+    border-radius: 186px;
+}
+.border{background: rebeccapurple;padding-top: 11px;margin-top: -12px;}
+.info{
+    width: 69%;
+    background: wheat;
+    height: 100%;
+    float: right;
+    border-radius: 9px;
+}
+#name{display: none}
+#email{display: none}
+#class{display: none}
+#password{display: none}
+
+.info input{padding: 7px;background: wheat;border: 5px solid white;border-radius: 7px;margin-left: 8px;}
+.fake\+_button{display: inline;background: green;padding: 4px;border: 2px solid white;border-radius: 8px;color: white;}
+.round{padding: 12px}
+#ig{display: none}

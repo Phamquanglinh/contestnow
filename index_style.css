@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-/*==Style cơ bản cho website==*/
+/*==Style cÃ†Â¡ bÃ¡ÂºÂ£n cho website==*/
 body {
     font-family: sans-serif;
     color: #333;
@@ -17,32 +17,41 @@ body {
     margin-top: 12px;
     max-width: 984px;
     margin: auto;
+    background: wheat;
 }
 
 .prolife {
     text-align: center;
-    border: 1px solid red;
+    border: 2px dashed white;
     margin: auto;
     padding: 12px;
+    border-radius: 12px;
+    color: white;
+    margin: 6px;
+    background: #009688;
 }
+
+.prolife {}
 
 .prolife_title {
     font-size: 50px;
     font-weight: bold;
 }
-.list_contest{border: 3px solid red;border-radius: 19px;padding: 12px;background: blueviolet;}
+.list_contest{border: 3px solid #efefef;border-radius: 19px;padding: 12px;background: #009688;}
 .contest_box{
     margin-bottom: 12px;
-    background: wheat;
+    background: #009688;
     border: 5px solid white;
     padding: 3px;
     border-radius: 12px;
+    padding: 6px;
 }
 #title_contest{
     font-size: 24px;
+    color: white;
 }
 #author_contest{
-    color: red;
+    color: #fef5f5;
     margin-right: 12px;
 }
 
@@ -53,11 +62,11 @@ h2{
 
 .prolife ul{list-style-type: none}
 
-.contest_box a{ text-decoration: none;color: black}
+.contest_box a{text-decoration: none;color: white;}
 
 
 
-.contest_box:hover{background: #327735;color: black}
+.contest_box:hover{background: #E91E63;color: black;}
 
 .contest_box:active{background: #327735;color: black}
 

@@ -1,4 +1,1 @@
-﻿|NMC01|Bài kiểm tra mẫu số 1|15|Nguyễn Mạnh Cường|Cuongmn0402@gmail.com|
-|NMC02|Bài kiểm tra mẫu số 2|15|Nguyễn Mạnh Cường|Cuongmn0402@gmail.com|
-|T03|Bài kiểm tra vô hình của my đáng yêu|9900|Lê Nguyễn Trà My|Nguyenlemy5@gmail.com|
-|Ad01|Simple Test|45|Phạm Quang Linh|Linh2002gv@gmail.com|
+﻿

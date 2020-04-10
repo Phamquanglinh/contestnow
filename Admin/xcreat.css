@@ -1,0 +1,70 @@
+#creat_button{display: inline;border: 2px solid white; background: #327735;color: white;border-radius: 6px;padding: 4px}
+#creat_button:hover{background: deeppink; border: 5px solid white;}
+#ques{
+    padding: 8px;
+    width: 500;
+    background: rebeccapurple;
+    border: 3px solid white;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    color: white;
+    font-weight: bold;
+}
+#asw{
+    width: 500;
+    padding: 3px;
+    border: 3px solid white;
+    border-radius: 7px;
+    background: #399f39;
+    color: white;
+}
+#correct{float: left;font-size: 30px;border: 3px solid white;background: darkred;border-radius: 9px;width: 50;color: white;text-align: center;}
+.clear{
+    height: 32px;
+}
+
+td{text-align: center}
+
+@media only screen and  (max-width: 600px){
+    th{}
+    tr{}
+    td{}
+    #ques{
+        width: 324px;
+        float: left;
+    }
+    #asw{
+        width: 319px;
+    }
+
+}
+
+#title{
+    padding: 7px;
+    border: 3px solid white;
+    background: center;
+    border-radius: 9px;
+    font-weight: bold;
+}
+#total_question{
+    font-size: 18px;
+    padding: 7px;
+    border: 2px solid white;
+    background: center;
+    border-radius: 17pc;
+    color: white;
+}
+
+#submit{
+    margin: auto;
+    display: block;
+    margin-top: 14px;
+    margin-bottom: 12px;
+    padding: 12px;
+    border: 6px solid white;
+    background: #009688;
+    border-radius: 15px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}

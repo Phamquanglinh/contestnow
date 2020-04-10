@@ -31,7 +31,7 @@ if (!$post_password || !$post_email) {
     $_SESSION['type_user'] = $Prolife[$post_email]['Type'];
     $_SESSION['Class'] = $Prolife[$post_email]['Class'];
     $_SESSION['Status'] = "on";
-    echo header("refresh: 0; url = https://comflash.xyz");
+    echo '<script>window.location.href="https://comflash.xyz/Module/prolife/infomation.php"</script>';
 }
 
 //=================================================

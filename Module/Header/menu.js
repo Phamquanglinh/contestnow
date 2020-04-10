@@ -87,6 +87,8 @@ $(document).ready(function() {
         $(div).css('position',((p)>start) ? 'fixed' : 'static');
 
         $(div).css('top',((p)>start) ? '0px' : '');
+        $(div).css('margin-top',((p)>start) ? '0px' : '');
+
 
     });
 

@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c44f6b-487f-4172-9614-7a3ed13d918e" name="Default Changelist" comment="Test thử">
+      <change afterPath="$PROJECT_DIR$/Module/prolife/infomation.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/getlist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/getlist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/Contest_source/css/Contest_now.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module/Contest_source/css/Contest_now.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/Contest_source/css/Side.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/Contest_source/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/xcreat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/Header/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Module/Header/Header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/Header/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module/Header/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/Header/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module/Header/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/prolife/prolife.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/index_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sesion.php" beforeDir="false" afterPath="$PROJECT_DIR$/sesion.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +62,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -136,7 +151,8 @@
       <workItem from="1586152912099" duration="15787000" />
       <workItem from="1586185004974" duration="7868000" />
       <workItem from="1586230895231" duration="22474000" />
-      <workItem from="1586326523327" duration="19486000" />
+      <workItem from="1586326523327" duration="44648000" />
+      <workItem from="1586492050644" duration="8145000" />
     </task>
     <task id="LOCAL-00001" summary="Test thử">
       <created>1586232094200</created>
@@ -158,15 +174,51 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test thử" />
     <option name="LAST_COMMIT_MESSAGE" value="Test thử" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="42" key="#Deployment" timestamp="1586231913527">
+    <state x="306" y="42" key="#Deployment" timestamp="1586492907203">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="306" y="42" key="#Deployment/62.0.1304.768@62.0.1304.768" timestamp="1586231913527" />
+    <state x="306" y="42" key="#Deployment/62.0.1304.768@62.0.1304.768" timestamp="1586492907203" />
     <state x="168" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586184944759">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
@@ -191,10 +243,14 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="154" y="92" width="1120" height="584" key="DiffContextDialog/62.0.1304.768@62.0.1304.768" timestamp="1586250490897" />
-    <state x="154" y="92" width="1120" height="584" key="DirDiffDialog" timestamp="1586250490897">
+    <state x="154" y="92" width="1120" height="584" key="DirDiffDialog" timestamp="1586500208421">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="154" y="92" width="1120" height="584" key="DirDiffDialog/62.0.1304.768@62.0.1304.768" timestamp="1586250490897" />
+    <state x="154" y="92" width="1120" height="584" key="DirDiffDialog/62.0.1304.768@62.0.1304.768" timestamp="1586500208421" />
+    <state x="494" y="138" key="FileChooserDialogImpl" timestamp="1586439804512">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="138" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1586439804512" />
     <state width="892" height="199" key="GridCell.Tab.0.bottom" timestamp="1586185852046">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
@@ -219,10 +275,10 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="461" y="198" key="NewPhpClassDialog/62.0.1304.768@62.0.1304.768" timestamp="1586246972268" />
-    <state x="549" y="307" key="NewPhpFileDialog" timestamp="1586339950920">
+    <state x="549" y="307" key="NewPhpFileDialog" timestamp="1586440424451">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="549" y="307" key="NewPhpFileDialog/62.0.1304.768@62.0.1304.768" timestamp="1586339950920" />
+    <state x="549" y="307" key="NewPhpFileDialog/62.0.1304.768@62.0.1304.768" timestamp="1586440424451" />
     <state x="215" y="26" key="SettingsEditor" timestamp="1586178395035">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
@@ -247,13 +303,21 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="546" y="45" width="582" height="717" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/62.0.1304.768@62.0.1304.768" timestamp="1586185245595" />
-    <state x="370" y="172" key="run.anything.popup" timestamp="1586326563898">
+    <state x="523" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586439797990">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="370" y="172" key="run.anything.popup/62.0.1304.768@62.0.1304.768" timestamp="1586326563898" />
-    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586341557187">
+    <state x="523" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1304.768@62.0.1304.768" timestamp="1586439797990" />
+    <state x="554" y="114" key="ftp.server.browser" timestamp="1586492900244">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1586341557187" />
+    <state x="554" y="114" key="ftp.server.browser/62.0.1304.768@62.0.1304.768" timestamp="1586492900244" />
+    <state x="370" y="172" key="run.anything.popup" timestamp="1586439803310">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="370" y="172" key="run.anything.popup/62.0.1304.768@62.0.1304.768" timestamp="1586439803310" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586447109162">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1586447109162" />
   </component>
 </project>

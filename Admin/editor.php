@@ -32,13 +32,17 @@ if ($type_user == "Normal") {
          messages+='>Có</button>';
          messages+='<button onclick="dis()">Không</button><div>';
    document.getElementById('confirm_delete').innerHTML=messages;
-   document.getElementById('confirm_delete').style.display='block';
-    }
+   document.getElementById('confirm_delete').style.display='block';}
+
 
     function dis(){document.getElementById('confirm_delete').style.display='none';}
     function goto(link) {
         window.location="delete.php?code="+link;
+
+
     }
+    function mess_fix(link){
+        window.location="edited.php?code="+link;}
 
 </script>
 
@@ -84,9 +88,14 @@ if ($type_user == "Normal") {
             //Xử lý có code
             foreach ($list as $test_key => $test_value) {
                 echo '<div id="list_test"> 
-                        <P>' . $list[$test_key]['Name_contest'] . '</P>
-                              <button><a href="edited.php?code=' . $list[$test_key]['Code'] . '">Sửa</a></button>
-                             <div onclick="mess(';
+                        <P>' . $list[$test_key]['Name_contest'] . '</P>';
+
+                echo '<div onclick="mess_fix(';
+                echo "'";
+                echo $list[$test_key]['Code']; echo "'";echo ")";echo '"';
+                echo 'id="delete">Sửa</div>';
+
+                            echo '<div onclick="mess(';
                 echo "'";
                 echo $list[$test_key]['Code']; echo "'";echo ")";echo '"';
                     echo 'id="delete">Xóa</div>';

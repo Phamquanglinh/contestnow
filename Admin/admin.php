@@ -31,7 +31,8 @@ if($type_user=="Normal"){header("refresh: 0; url = https://comflash.xyz");}
             <p>Dưới đây là công cụ quản trị của bạn</p>
         </div>
            <div class="tool">
-               <div class="on_tool"><a href="creat.php">Tạo bài kiểm tra</a></div>
+               <div class="on_tool"><a href="creat.php">Tạo bài kiểm tra(Có file txt)</a></div>
+               <div class="on_tool"><a href="xcreat.php">Tạo bài kiểm tra (chưa có file)</a></div>
                <div class="on_tool"><a href="editor.php">Quản lý các bài kiểm tra đã đăng</a></div>
                <div class="on_tool"><a href="getmark.php">Quản lý danh sách kết quả bài kiểm tra</a></div>
                <div class="on_tool">Cấp phép truy cập</div>

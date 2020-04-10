@@ -6,11 +6,10 @@
 .boder{
     max-width: 1000px;
     margin: auto;
-    background:lightpink;
-    border: 1px solid crimson;
+    background: #009688;
+    border: 9px solid white;
     border-radius: 12px;
     margin-top: 12px;
-
 }
 .info_manager{
     text-align: center;
@@ -25,14 +24,18 @@
     .boder{padding: 12px}
 
 }
-.back_admin{padding: 5px;color: red;
+.back_admin{
+    padding: 5px;
+    color: red;
     font-size: 17px;
     background: white;
-    border: 1px solid black;
-    border-radius: 14px;}
+    border: 5px solid white;
+    border-radius: 14px;
+    background: center;
+}
 .back_admin a{
     text-decoration: none;
-    color: black;
+    color: white;
     font-weight: bold;
 }
 .body_editor{padding: 30px}
@@ -50,14 +53,19 @@
     padding: 2px;
     border-radius: 7px;
     display: block;
+    border: 3px solid white;
+    margin-top: 5px;
 }
 .body_editor{
     max-width: 1000px;
-    border: 1px solid red;
+    border: 10px solid white;
     padding-top: 12px;
     padding-bottom: 12px;
     margin: auto;
     margin-top: 10px;
+    background: #009688;
+    border-radius: 12px;
+    color: white;
 }
 #result_edit{border: 1px solid;}
 .search-form{
@@ -70,6 +78,10 @@
 
 .search-form input{
     padding: 10px;
+    border-radius: 12px;
+    background: center;
+    border: 3px solid white;
+    color: white;
 }
 #result_edit p{
     display: inline;
@@ -82,6 +94,7 @@
     border: 1px solid #00BCD4;
     border-radius: 5px;
     padding: 2px;
+    background: center;
 }
 
 #list_test{
@@ -101,6 +114,8 @@
 #result_edit button a:hover{
     color: white;
     transition-delay: 200ms;
+    background: #00BCD4;
+    padding: 2px;
 }
 
 .edit_data{
@@ -127,7 +142,7 @@
     border-radius: 12px;
 }
 
-#delete{background: red;width: 39px;padding: 2px;text-align: center;border-radius: 8px;float: right;margin-right: 12px;border: 1px solid #00BCD4;}
+#delete{background: #009688;width: 39px;padding: 2px;text-align: center;border-radius: 8px;float: right;margin-right: 12px;border: 1px solid #00BCD4;}
 
 #confirm_delete{
     display:none;
@@ -173,3 +188,15 @@
 }
 
 .cf a{text-decoration: none;color: white;font-weight: bold;}
+#delete:hover{
+    border: 3px solid;
+    background: #E91E63;
+}
+#code{
+    border: 3px solid white;
+    background: center;
+    border-radius: 13px;
+}
+.search-form input:hover{
+    background: purple;
+}

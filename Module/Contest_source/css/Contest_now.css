@@ -10,12 +10,13 @@ body {
 
 .main-contest {
     margin: auto;
-    background-color: #4a54d5;
-    font-size: 25px;
+    background-color: #01685fd1;
+    font-size: 24px;
     color: white;
-    border-radius: 32px;
+    border-radius: 17px;
     font-family: "Times New Roman";
     width: 77%;
+    border: 6px solid white;
 }
 
 input[type=radio] {
@@ -29,20 +30,24 @@ input[type=radio] {
     padding: 12px;
 
 }
-#security{text-align:center;border:1px solid red;padding:12px;background:pink;}
-#start{font-size:20px; font-family:"Time New Roman";border: 1px solid black;}
+#security{text-align:center;border: 4px solid white;padding:12px;background: #009688;max-width: 1000px;margin: auto;border-radius: 12px;color: white;}
+#start{font-size:20px;font-family:"Time New Roman";border: 4px solid white;padding: 4px;background: center;color: white;border-radius: 12px;margin-top: 12px;}
 
 #start:hover{
-    background:red;
+    background: #E91E63;
     color:white;
-
+    border FONT-WEIGHT: 600;
 }
-.clock{text-align: center;
-        border: 1px solid red;
-        font-size: 30px;
-         width: 100%;
-        background: white;
-        z-index: 1;
+.clock{
+    text-align: center;
+    border-bottom: 3px solid white;
+    font-size: 31px;
+    width: 100%;
+    background: #009688;
+    margin-top: -12px;
+    color: white;
+    /* border-radius: 10px; */
+    z-index: 1;
 }
 
 
